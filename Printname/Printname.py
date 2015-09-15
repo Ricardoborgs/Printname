@@ -1,2 +1,4 @@
-name = "Hello user!"
-print (name)
+invullen = "Typ your name"
+print (invullen)
+name = input()
+print ("Welcome" + " " + name)
